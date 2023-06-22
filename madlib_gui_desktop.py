@@ -1,6 +1,6 @@
 
 """
- Ping Pong Game Using Python lang.. & tkinter model
+ Madlib Game Using Python lang.. & tkinter model
 
  ** Created by Abdullah EL-Yamany **
 """
